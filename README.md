@@ -1,6 +1,6 @@
 
 # Dilsher Singh
-I'm Dilsher from Hong Kong. I hold a degree in Computer Engineering from the Hong Kong University of Science and Technology, ranked among the top 25 universities globally. My passion lies in exploring the evolving Web3 ecosystem and delving into programming languages that enable innovative and efficient solutions. I am constantly driven by curiosity and a commitment to lifelong learning, always seeking opportunities to enhance my skills and contribute to cutting-edge projects.
+I'm Dilsher from Hong Kong, with a Computer Engineering degree from HKUST, ranked in the global top 25. I'm passionate about the Web3 ecosystem and exploring languages that drive innovation. Always curious and committed to lifelong learning, I seek to enhance my skills and contribute to impactful projects.
 
 
 ## Skills and Experience
