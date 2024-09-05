@@ -7,4 +7,7 @@ I'm Dilsher from Hong Kong. I hold a degree in Computer Engineering from the Hon
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
+* 🌐 Web3
+* 🛠 Solidity
+
 
