@@ -4,9 +4,9 @@ I'm Dilsher from Hong Kong, with a Computer Engineering degree from HKUST, ranke
 
 
 ## Skills and Experience
-* ⚛ React
+* ⚛ React, TypeScript
 * 📱 React Native
-* 💻 HTML, CSS, JS
+* 💻 Node JS, MongoDB
 * 🌐 Web3
 * 🛠 Solidity
 
